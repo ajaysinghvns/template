@@ -9,9 +9,7 @@ body {
   width: 100vw;
   height: 100vh;
   font-family: montserrat;
-  background: url("./img/laptop2.jpg") no-repeat;
-  background-position:center;
-  background-size: cover;
+  background: #eee;
 }
 nav {
   background: #0082e6;
